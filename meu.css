@@ -1,0 +1,25 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+ }
+a{
+ text-decoration: none;
+ color: white;
+}
+button{
+ text-decoration: none;
+border: none;
+cursor: pointer;
+}
+pre{
+    font-family: 'Times New Roman', Times, serif;
+}
+ 
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+ 
+ 
+ 
+
